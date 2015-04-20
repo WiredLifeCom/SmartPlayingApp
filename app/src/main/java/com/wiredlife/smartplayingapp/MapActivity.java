@@ -1,4 +1,4 @@
-package com.example.daniel.helloworld;
+package com.wiredlife.smartplayingapp;
 
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
